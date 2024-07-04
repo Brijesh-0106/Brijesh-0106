@@ -69,6 +69,6 @@
 
 <p align="center">
   <a href="https://imgur.com/7WBoTap" target="_blank">
-    <img src="https://i.imgur.com/7WBoTap.png" alt="Resume" width="300" />
+    <img src="https://i.imgur.com/7WBoTap.png" alt="Resume" width="350" />
   </a>
 </p>
