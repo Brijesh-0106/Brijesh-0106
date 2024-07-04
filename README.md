@@ -29,7 +29,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="padding: 10px;">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="padding: 100px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="padding: 10px;">
