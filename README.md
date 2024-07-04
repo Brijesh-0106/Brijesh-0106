@@ -19,6 +19,7 @@
   <a href="mailto:brijeshshah654@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/shahbrijesh1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
