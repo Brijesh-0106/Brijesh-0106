@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://imgur.com/7WBoTap" target="_blank">
-    <img src="https://imgur.com/7WBoTap" alt="Resume" width="200" />
+    <img src="https://i.imgur.com/7WBoTap.png" alt="Resume" width="200" />
   </a>
 </p>
 
