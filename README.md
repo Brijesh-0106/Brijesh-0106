@@ -1,12 +1,11 @@
-
-
 <h1 align="center">Hi 👋, I'm Shah Brijesh</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shlok-177&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <hr>
-<pre>
+
+<pre style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 6px;">
 💻 I am a self-taught Full Stack Developer and Software Developer.
 📚 I graduated with a degree in IT Engineering from GEC Gandhinagar.
 📝 I have a strong passion for Web Development.
@@ -16,16 +15,17 @@
 🤔 I’m open to <b>internship</b> opportunities and seeking new <b>job opportunities</b>. Here is <a href="https://imgur.com/7WBoTap" target="_blank">MY RESUME</a>.
 </pre>
 <hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="mailto:brijeshshah654@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:brijeshshah654@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/shahbrijesh1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/shahbrijesh1/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Brijesh-0106" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Brijesh-0106" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -73,4 +73,12 @@
   <a href="https://imgur.com/7WBoTap" target="_blank">
     <img src="https://i.imgur.com/7WBoTap.png" alt="Resume" width="350" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shlok-177&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shlok-177&show_icons=true&locale=en&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" />
 </p>
