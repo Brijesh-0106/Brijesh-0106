@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <a href="https://shlokjadeja.tech/static/media/resume.de5296312cc14f5290ed.pdf" target="_blank">
+  <a href="https://imgur.com/7WBoTap" target="_blank">
     <img src="[https://imgur.com/7WBoTap](https://imgur.com/7WBoTap)" alt="Resume" width="200" />
   </a>
 </p>
