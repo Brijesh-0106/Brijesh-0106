@@ -11,7 +11,7 @@
 🔭 Currently, I am working on several web projects.
 🌟 My main programming languages are Python and C++.
 🚩 I am interested in Software Development.
-🤔 I’m open to <b>internship</b> opportunities and seeking new <b>job opportunities</b>. Here is <a href="https://shlokjadeja.tech/static/media/resume.de5296312cc14f5290ed.pdf" target="_blank">MY RESUME</a>.
+🤔 I’m open to <b>internship</b> opportunities and seeking new <b>job opportunities</b>. Here is <a href="[https://shlokjadeja.tech/static/media/resume.de5296312cc14f5290ed.pdf](https://imgur.com/7WBoTap)" target="_blank">MY RESUME</a>.
 </pre>
 <hr>
 <h3 align="left">Connect with me:</h3>
@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://shlokjadeja.tech/static/media/resume.de5296312cc14f5290ed.pdf" target="_blank">
-    <img src="https://imgur.com/7WBoTap" alt="Resume" width="200" />
+    <img src="[https://imgur.com/7WBoTap](https://imgur.com/7WBoTap)" alt="Resume" width="200" />
   </a>
 </p>
 
