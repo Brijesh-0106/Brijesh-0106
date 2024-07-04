@@ -1,24 +1,30 @@
 <h1 align="center">Hi 👋, I'm Shah Brijesh</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shlok-177&label=Profile%20views&color=0e75b6&style=flat" alt="shlok-177" />
+  <img src="https://komarev.com/ghpvc/?username=shlok-177&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <hr>
 <pre>
-💻 I am a self-taught Full Stack Developer and a Software Developer.
-📚 I have completed my IT engineering from GEC Gandhinagar.
-📝 I have a strong interest in Web Development.
-🔭 Currently working on several web projects.
-🌟 Main languages: Python and C++.
-🚩 Interested in Software Development.
-🤔 I’m currently open to doing <b>an internship</b> and seeking new <b>job opportunities</b>. Here is <a href="https://shlokjadeja.tech/static/media/resume.de5296312cc14f5290ed.pdf" target="_blank">MY RESUME</a>.
+💻 I am a self-taught Full Stack Developer and Software Developer.
+📚 I graduated with a degree in IT Engineering from GEC Gandhinagar.
+📝 I have a strong passion for Web Development.
+🔭 Currently, I am working on several web projects.
+🌟 My main programming languages are Python and C++.
+🚩 I am interested in Software Development.
+🤔 I’m open to <b>internship</b> opportunities and seeking new <b>job opportunities</b>. Here is <a href="https://shlokjadeja.tech/static/media/resume.de5296312cc14f5290ed.pdf" target="_blank">MY RESUME</a>.
 </pre>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="mailto:brijeshshah654@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/shahbrijesh1/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Brijesh-0106"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:brijeshshah654@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shahbrijesh1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Brijesh-0106">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -61,6 +67,10 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shlok-177&show_icons=true&locale=en&layout=compact" alt="shlok-177" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shlok-177&show_icons=true&locale=en&layout=compact" alt="shlok-177" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shlok-177&show_icons=true&locale=en" alt="shlok-177" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shlok-177&show_icons=true&locale=en" alt="shlok-177" />
+</p>
