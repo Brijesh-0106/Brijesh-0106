@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shlok Jadeja</h1>
+<h1 align="center">Hi 👋, I'm Shah Brijesh</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shlok-177&label=Profile%20views&color=0e75b6&style=flat" alt="shlok-177" /> </p>
     <hr>
